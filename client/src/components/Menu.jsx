@@ -155,8 +155,7 @@ const Menu = ({ darkMode, setDarkMode, setMenuOpen, setNewTeam }) => {
       <Flex>
         <Link to="/" style={{ textDecoration: "none", color: "inherit", alignItems: 'center',display: 'flex' }}>
           <Logo>
-            <Image src={LogoIcon} />
-            VEXA
+            Project
           </Logo>
         </Link>
         <Close>
